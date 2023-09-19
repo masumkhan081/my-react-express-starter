@@ -13,5 +13,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://vercel.com/masumkhan/my-react-express-starter"
+  "proxy": "https://my-react-express-starter-git-master-masumkhan.vercel.app"
 }
